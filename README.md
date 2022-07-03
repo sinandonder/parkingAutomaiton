@@ -10,4 +10,6 @@ This automaiton program was written with the needs of a parking system in mind. 
 * Floor Status Display (admin and customer)
 
 
-![Admin Calculation and Custumers add](https://github.com/sinandonder/parkingAutomation/blob/master/screenshots/adminCalculation.png)
+![Admin Calculation and Custumers add](https://github.com/sinandonder/parkingAutomaiton/blob/master/screenshots/adminCalculation.png)
+
+![Admin Floor Control](https://github.com/sinandonder/parkingAutomaiton/blob/master/screenshots/adminFloorControl.png)
